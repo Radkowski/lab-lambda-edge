@@ -1,0 +1,3 @@
+variable "bucketname" {}
+
+variable "oaiid" {}
